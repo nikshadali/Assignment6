@@ -395,7 +395,7 @@
 // var num1 = +prompt("Enter any diget")
 // var opr = prompt("Enter oprator")
 // var num2 = +prompt("Enter any diget")
-// function greeting(firstDiget, opr,secDiget ){
+// function clac(firstDiget, opr,secDiget ){
 // var firstDiget = firstDiget
 // var secDiget = secDiget
 // var opr = opr
@@ -423,7 +423,7 @@
 //                     document.write(" Modulas  of two digets is " + modu )
 //                     }
 // }
-// greeting(num1,opr,num2 )
+// clac(num1,opr,num2 )
 
 //****************************************** Cheptar # 35 to 38 ***** Task # 5 ***********************
 
