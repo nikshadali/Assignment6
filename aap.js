@@ -429,10 +429,10 @@
 
 // var num = prompt("Enter Your first Name")
 
-// function greeting(num){
+// function squre(num){
 //     var num = num
 //     var squ = num*num
 //     document.write("Squre of " + num + " is " + squ)
 // }
 
-// greeting(num)
+// squre(num)
