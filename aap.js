@@ -357,9 +357,82 @@
 // document.write("Gross Amount Payable (After due Date) : " + ( Units * chargePerUnit + lateSurcharge) + "<br>")
 
 
+// ****************************************** Cheptar # 35 to 38 ***** Task # 1 ***********************
 
 
+// function currDate(){
+
+//     var todaydate = new Date()
+//     document.write(todaydate)
+// }
+
+// currDate()
+
+// ****************************************** Cheptar # 35 to 38 ***** Task # 2 ***********************
+
+// var fName = prompt("Enter Your first Name")
+// var lName = prompt("Enter Your first Name")
+// function greeting(fname, lname){
+//     var fname = fname
+//     var lname = lname
+//     document.write("Hello " + fname + " " + lname)
+// }
+
+// greeting(fName,lName)
 
 
+// ****************************************** Cheptar # 35 to 38 ***** Task # 3 ***********************
+// var num1 = +prompt("Enter any diget")
+// var num2 = +prompt("Enter any diget")
+// function greeting(firstDiget, secDiget){
+//     var sum = firstDiget + secDiget
+//     document.write("Sum of two digets " + sum)
+// }
+// greeting(num1,num2)
 
+// ****************************************** Cheptar # 35 to 38 ***** Task # 4 ***********************
 
+// var num1 = +prompt("Enter any diget")
+// var opr = prompt("Enter oprator")
+// var num2 = +prompt("Enter any diget")
+// function greeting(firstDiget, opr,secDiget ){
+// var firstDiget = firstDiget
+// var secDiget = secDiget
+// var opr = opr
+//     if(opr === "+"){
+//     var sum = firstDiget + secDiget
+//     document.write(" sum of two digets is " + sum )
+//     }
+
+//     else if(opr === "-"){
+//         var sub = firstDiget - secDiget
+//         document.write(" Subtaction of two digets is " + sub )
+//         }
+
+//         else if(opr === "*"){
+//             var multi = firstDiget * secDiget
+//             document.write(" Multiplication of two digets is " + multi )
+//             }
+//             else if(opr === "/"){
+//                 var div = firstDiget / secDiget
+//                 document.write(" Division  of two digets is " + div )
+//                 }
+
+//                 else if(opr === "%"){
+//                     var modu = firstDiget % secDiget
+//                     document.write(" Modulas  of two digets is " + modu )
+//                     }
+// }
+// greeting(num1,opr,num2 )
+
+//****************************************** Cheptar # 35 to 38 ***** Task # 5 ***********************
+
+// var num = prompt("Enter Your first Name")
+
+// function greeting(num){
+//     var num = num
+//     var squ = num*num
+//     document.write("Squre of " + num + " is " + squ)
+// }
+
+// greeting(num)
